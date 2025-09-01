@@ -11,9 +11,9 @@ Sou autodidata, curioso e determinado. Acredito que a tecnologia é uma ferramen
 - Lógica de Programação
 - Python (estrutura, sintaxe, condicionais, manipulação de dados)
 - Estudos autodidatas com foco em projetos práticos
-- Experiência com sistemas eletromecânicos e automação industrial
+- Experiência com sistemas eletrotecnicos 
 ## 📚 Formação
-- Faculdade Anhanguera Analise e Desenvolvimento de Sistemas / 2025
+- Faculdade Anhanguera Analise e Desenvolvimento de Sistemas / 2025-2027
 - Técnico em Eletromecânica  / Senai 2012
 - Gustavo Guanabara (Curso em Vídeo) *(em andamento)*
 ## 🎯 Objetivo Profissional
